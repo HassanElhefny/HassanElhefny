@@ -6,7 +6,7 @@
 
 📍 Cairo, Egypt &nbsp;|&nbsp; ✉️ [hrelhefny@gmail.com](mailto:hrelhefny@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan_Elhefny-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-elhefny-%F0%9F%87%B5%F0%9F%87%B8-a64b78245/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan_Elhefny-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-elhefny-a64b78245/)
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-Portfolio-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/hassan.elhefny4651)
 [![Email](https://img.shields.io/badge/Email-hrelhefny@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrelhefny@gmail.com)
 
